@@ -1,0 +1,37 @@
+Added Component: Designator=A?(ABXS005S4X341-SRZ)
+Add component. Clean all parameters for all variants
+Added Component: Designator=F?(TSSOP-14)
+Add component. Clean all parameters for all variants
+Added Pin To Net: NetName=GND Pin=A?-1
+Added Pin To Net: NetName=VOUT Pin=A?-2
+Added Pin To Net: NetName=VIN Pin=A?-3
+Added Pin To Net: NetName=GND Pin=A?-4
+Added Pin To Net: NetName=VIN Pin=A?-5
+Added Pin To Net: NetName=GND Pin=A?-6
+Added Pin To Net: NetName=GND Pin=A?-7
+Added Pin To Net: NetName=ON/OFF Pin=A?-12
+Added Pin To Net: NetName=GND Pin=F?-3
+Added Pin To Net: NetName=VOUT Pin=F?-6
+Added Pin To Net: NetName=VOUT Pin=F?-7
+Added Pin To Net: NetName=VOUT Pin=F?-8
+Added Pin To Net: NetName=VOUT Pin=F?-9
+Added Pin To Net: NetName=VIN Pin=F?-14
+Added Pin To Net: NetName=NetA?_10 Pin=A?-10
+Added Pin To Net: NetName=NetA?_10 Pin=C19-1
+Added Net: Name=NetA?_10
+Added Pin To Net: NetName=NetA?_11 Pin=A?-11
+Added Pin To Net: NetName=NetA?_11 Pin=R1-2
+Added Pin To Net: NetName=NetA?_11 Pin=R2-2
+Added Net: Name=NetA?_11
+Added Pin To Net: NetName=NetF?_5 Pin=F?-5
+Added Pin To Net: NetName=NetF?_5 Pin=R?-1
+Added Pin To Net: NetName=NetF?_5 Pin=R?-2
+Added Net: Name=NetF?_5
+Added Pin To Net: NetName=NetF?_13 Pin=F?-13
+Added Pin To Net: NetName=NetF?_13 Pin=R?-1
+Added Net: Name=NetF?_13
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component A? DC to DC stepup converter
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component C? Cap
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component F? 4 amp fuse
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component R? Res1
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component R? Res1

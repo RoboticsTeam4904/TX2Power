@@ -1,0 +1,5 @@
+Added Pin To Net: NetName=VIN Pin=J?-1
+Added Pin To Net: NetName=VOUT Pin=J?-3
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component C? Cap
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component R? Res1
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component R? Res1

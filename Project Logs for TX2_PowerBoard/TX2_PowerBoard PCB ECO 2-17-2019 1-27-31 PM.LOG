@@ -1,0 +1,9 @@
+Change Component Designator: OldDesignator=A? NewDesignator=dcdc converter
+Change Component Designator: OldDesignator=F? NewDesignator=fuse
+Change Net Name : Old Net Name=NetA?_10 New Net Name=NetC19_1
+Change Net Name : Old Net Name=NetA?_11 New Net Name=Netdcdc converter_11
+Change Net Name : Old Net Name=NetF?_5 New Net Name=Netfuse_5
+Change Net Name : Old Net Name=NetF?_13 New Net Name=Netfuse_13
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component C? Cap
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component R? Res1
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component R? Res1

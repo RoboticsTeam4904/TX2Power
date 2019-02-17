@@ -1,0 +1,539 @@
+Added Component: Designator=C1(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM188R71H473KA55D/490-4934-2-ND/1765182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "12944"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM188R71H473KA55D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-4934-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.047uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C2(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C3(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C4(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C5(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C6(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C7(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM188R71H473KA55D/490-4934-2-ND/1765182"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "12944"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM188R71H473KA55D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0193"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-4934-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0.047uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C8(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C9(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C10(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C11(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C12(CAP 1210/3225 - 2.2MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32DR71E475KA55L/490-8063-2-ND/2592481"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "18697"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32DR71E475KA55L"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.428"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8063-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C13(CAP 1210/3225 - 2.8MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32ER71H475KA55K/490-8066-2-ND/2592491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "19150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32ER71H475KA55K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.6447"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8066-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C14(CAP 1210/3225 - 2.8MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32ER71H475KA55K/490-8066-2-ND/2592491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "19150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32ER71H475KA55K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.6447"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8066-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C15(CAP 1210/3225 - 2.8MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32ER71H475KA55K/490-8066-2-ND/2592491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "19150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32ER71H475KA55K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.6447"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8066-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C16(CAP 1210/3225 - 2.8MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32ER71H475KA55K/490-8066-2-ND/2592491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "19150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32ER71H475KA55K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.6447"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8066-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C17(CAP 1210/3225 - 2.8MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32ER71H475KA55K/490-8066-2-ND/2592491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "19150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32ER71H475KA55K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.6447"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8066-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C18(CAP 1210/3225 - 2.8MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM32ER71H475KA55K/490-8066-2-ND/2592491"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "1210 (3225 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "19150"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM32ER71H475KA55K"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.6447"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-8066-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "X7R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "10%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "4.7uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "50V"; VariantName = "[No Variations]"
+Added Component: Designator=C19(CAP 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.murata.com/~/media/webrenewal/support/library/catalog/products/capacitor/mlcc/c03e.ashx"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key Listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "https://www.digikey.com/product-detail/en/murata-electronics-north-america/GCM1885C2A471JA16D/490-4949-2-ND/1765197"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Murata Electronics North America"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "13595"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "GCM1885C2A471JA16D"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0279"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "490-4949-2-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "C0G, NP0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 125C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "5%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470pF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "100V"; VariantName = "[No Variations]"
+Added Component: Designator=C20(CAP ALUM 10.3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electronic%20Components/S_Series_Type_V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/EEE-1EA471P/PCE3909TR-ND/766076"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime @ Temp"; Value = "2000 Hrs @ 85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7417"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEE-1EA471P"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3451"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "380mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PCE3909TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40C ~ 85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Automotive"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C21(CAP ALUM 10.3MM)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/Panasonic%20Electronic%20Components/S_Series_Type_V.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/EEE-1EA471UAP/PCE4605TR-ND/1717771"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "Radial, Can - SMD"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Impedance"; Value = "-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Lifetime @ Temp"; Value = "1000 Hrs @ 85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "7429"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "EEE-1EA471UAP"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.3725"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ripple Current"; Value = "380mA"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "PCE4605TR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-40C ~ 85C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "20%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "High Temperature Reflow"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "470uF"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Voltage"; Value = "25V"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C?(RAD-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Radial Cap, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=J?(TE 282834-4)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "Part Number"; Value = "282834-4"; VariantName = "[No Variations]"
+Added Component: Designator=R1(RES 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF1372V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/ERJ-3EKF1372V/P13.7KHTR-ND/196114"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "1167"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF1372V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P13.7KHTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "100ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "13.7k"; VariantName = "[No Variations]"
+Added Component: Designator=R2(RES 0603/1608)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/www-cgi/jvcr13pz.cgi?E+PZ+3+AOA0002+ERJ3EKF2003V+7+WW"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Digi-Key listing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://digikey.com/product-detail/en/ERJ-3EKF2003V/P200KHTR-ND/196206"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Device Package"; Value = "0603 (1608 Metric)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = "Panasonic Electronic Components"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PartId"; Value = "906"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Part Number"; Value = "ERJ-3EKF2003V"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PowerRating"; Value = "0.1W, 1/10W"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Price"; Value = "0.0038"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier 1"; Value = "Digi-Key"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "P200KHTR-ND"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureCoefficient"; Value = "100ppm/C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TemperatureRange"; Value = "-55C ~ 155C"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Tolerance"; Value = "1%"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Type"; Value = "Thick Film"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "200k"; VariantName = "[No Variations]"
+Added Component: Designator=R?(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R?(AXIAL-0.3)
+Add component. Clean all parameters for all variants
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Axial Device, Thru-Hole; 2 Leads; 0.3 in Pin Spacing"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "AXIAL-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=GND Pin=C1-2
+Added Pin To Net: NetName=GND Pin=C2-1
+Added Pin To Net: NetName=GND Pin=C3-1
+Added Pin To Net: NetName=GND Pin=C4-1
+Added Pin To Net: NetName=GND Pin=C5-1
+Added Pin To Net: NetName=GND Pin=C6-1
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=GND Pin=C9-1
+Added Pin To Net: NetName=GND Pin=C10-1
+Added Pin To Net: NetName=GND Pin=C11-1
+Added Pin To Net: NetName=GND Pin=C12-1
+Added Pin To Net: NetName=GND Pin=C13-1
+Added Pin To Net: NetName=GND Pin=C14-1
+Added Pin To Net: NetName=GND Pin=C15-1
+Added Pin To Net: NetName=GND Pin=C16-1
+Added Pin To Net: NetName=GND Pin=C17-1
+Added Pin To Net: NetName=GND Pin=C18-1
+Added Pin To Net: NetName=GND Pin=C20-2
+Added Pin To Net: NetName=GND Pin=C21-2
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=C?-1
+Added Pin To Net: NetName=GND Pin=J?-2
+Added Pin To Net: NetName=GND Pin=J?-4
+Added Pin To Net: NetName=GND Pin=R1-1
+Added Pin To Net: NetName=GND Pin=R?-1
+Added Net: Name=GND
+Added Pin To Net: NetName=NetA0_10 Pin=C19-1
+Added Net: Name=NetA0_10
+Added Pin To Net: NetName=NetA0_11 Pin=R1-2
+Added Pin To Net: NetName=NetA0_11 Pin=R2-2
+Added Net: Name=NetA0_11
+Added Pin To Net: NetName=NetC19_2 Pin=C19-2
+Added Pin To Net: NetName=NetC19_2 Pin=R2-1
+Added Net: Name=NetC19_2
+Added Pin To Net: NetName=NetF0_5 Pin=R?-1
+Added Pin To Net: NetName=NetF0_5 Pin=R?-2
+Added Net: Name=NetF0_5
+Added Pin To Net: NetName=NetF0_13 Pin=R?-1
+Added Net: Name=NetF0_13
+Added Net: Name=ON/OFF
+Added Pin To Net: NetName=VIN Pin=C1-1
+Added Pin To Net: NetName=VIN Pin=C2-2
+Added Pin To Net: NetName=VIN Pin=C3-2
+Added Pin To Net: NetName=VIN Pin=C4-2
+Added Pin To Net: NetName=VIN Pin=C5-2
+Added Pin To Net: NetName=VIN Pin=C6-2
+Added Pin To Net: NetName=VIN Pin=C7-1
+Added Pin To Net: NetName=VIN Pin=C8-2
+Added Pin To Net: NetName=VIN Pin=C9-2
+Added Pin To Net: NetName=VIN Pin=C10-2
+Added Pin To Net: NetName=VIN Pin=C11-2
+Added Pin To Net: NetName=VIN Pin=C12-2
+Added Pin To Net: NetName=VIN Pin=C20-1
+Added Pin To Net: NetName=VIN Pin=C?-2
+Added Pin To Net: NetName=VIN Pin=R?-2
+Added Net: Name=VIN
+Added Pin To Net: NetName=VOUT Pin=C13-2
+Added Pin To Net: NetName=VOUT Pin=C14-2
+Added Pin To Net: NetName=VOUT Pin=C15-2
+Added Pin To Net: NetName=VOUT Pin=C16-2
+Added Pin To Net: NetName=VOUT Pin=C17-2
+Added Pin To Net: NetName=VOUT Pin=C18-2
+Added Pin To Net: NetName=VOUT Pin=C21-1
+Added Pin To Net: NetName=VOUT Pin=C?-2
+Added Pin To Net: NetName=VOUT Pin=R?-2
+Added Net: Name=VOUT
+Added Class: Name=TX2_PowerBoard
+Added Room: Name=TX2_PowerBoard

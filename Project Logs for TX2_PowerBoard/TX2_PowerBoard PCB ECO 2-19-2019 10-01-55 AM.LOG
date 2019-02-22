@@ -1,0 +1,6 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R3
+Change Component Designator: OldDesignator=R? NewDesignator=R4
+Change Component Designator: OldDesignator=R? NewDesignator=R5
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component C? 4.7uF
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component R3 Res1
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component R5 Res1

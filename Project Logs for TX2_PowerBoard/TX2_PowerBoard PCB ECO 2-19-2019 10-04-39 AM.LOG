@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=C? NewDesignator=C22
+Change Component Designator: OldDesignator=C? NewDesignator=C23
+Added Member To Class: ClassName=TX2_PowerBoard Member=Component C23 4.7uF

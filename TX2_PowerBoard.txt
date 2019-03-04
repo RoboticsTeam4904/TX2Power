@@ -1,0 +1,152 @@
+Board Information Report
+Filename     : C:\Users\Elise Meike\Documents\GitHub\TX2Power\TX2_PowerBoard.PcbDoc
+Date         : 3/3/2019
+Time         : 1:55:08 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 2900milsx1800mils
+    Components on board, 31
+count : 2
+
+Routing Information
+    Routing completion, 86.89%
+    Connections, 61
+    Connections routed, 53
+    Connections remaining, 8
+count : 4
+
+Layer, Arcs, Pads, Vias, Tracks, Texts, Fills, Regions, ComponentBodies
+    Top Layer, 0, 63, 0, 149, 0, 0, 4, 0
+    Bottom Layer, 0, 0, 0, 8, 0, 0, 1, 0
+    Mechanical 1, 0, 14, 0, 0, 0, 0, 0, 24
+    Mechanical 4, 2, 0, 0, 126, 2, 0, 0, 0
+    Mechanical 13, 0, 0, 0, 108, 0, 0, 0, 2
+    Mechanical 15, 0, 0, 0, 158, 0, 0, 0, 0
+    Mechanical 16, 0, 0, 0, 4, 0, 0, 0, 0
+    Multi-Layer, 0, 10, 2, 0, 0, 0, 1, 0
+    Top Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Top Overlay, 1, 0, 0, 224, 64, 0, 0, 0
+    Top Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Solder, 0, 0, 0, 0, 0, 0, 0, 0
+    Bottom Overlay, 0, 0, 0, 0, 2, 0, 0, 0
+    Bottom Paste, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Guide, 0, 0, 0, 0, 0, 0, 0, 0
+    Keep-Out Layer, 0, 0, 0, 0, 0, 0, 0, 0
+    Drill Drawing, 0, 0, 0, 0, 0, 0, 0, 0
+count : 17
+
+Drill Pairs, Vias
+    Top Layer - Bottom Layer, 2
+count : 1
+
+Non-Plated Hole Size, Pads, Vias
+count : 0
+
+Plated Hole Size, Pads, Vias
+    0mils, 77, 0
+    28mils, 0, 2
+    33.465mils, 6, 0
+    43.307mils, 4, 0
+count : 4
+
+Non-Plated Slot Size / Length, Pads
+count : 0
+
+Plated Slot Size / Length, Pads
+count : 0
+
+Non-Plated Square Hole Size, Pads
+count : 0
+
+Plated Square Hole Size, Pads
+count : 0
+
+Top Layer Annular Ring Size, Count
+    21.654mils, 6
+    22mils, 2
+    25.591mils, 4
+count : 3
+
+Mid Layer Annular Ring Size, Count
+    21.654mils, 6
+    22mils, 2
+    25.591mils, 4
+count : 3
+
+Bottom Layer Annular Ring Size, Count
+    21.654mils, 6
+    22mils, 2
+    25.591mils, 4
+count : 3
+
+Pad Solder Mask, Count
+    4mils, 87
+count : 1
+
+Pad Paste Mask, Count
+    0mils, 87
+count : 1
+
+Pad Pwr/Gnd Expansion, Count
+    20mils, 87
+count : 1
+
+Pad Relief Conductor Width, Count
+    10mils, 87
+count : 1
+
+Pad Relief Air Gap, Count
+    10mils, 87
+count : 1
+
+Pad Relief Entries, Count
+    4, 87
+count : 1
+
+Via Solder Mask, Count
+    4mils, 2
+count : 1
+
+Via Pwr/Gnd Expansion, Count
+    20mils, 2
+count : 1
+
+Track Width, Count
+    1.969mils, 100
+    3.937mils, 154
+    5.906mils, 161
+    6mils, 134
+    7.874mils, 66
+    10mils, 162
+count : 6
+
+Arc Line Width, Count
+    6mils, 3
+count : 1
+
+Arc Radius, Count
+    12mils, 3
+count : 1
+
+Arc Degrees, Count
+    180, 3
+count : 1
+
+Text Height, Count
+    60mils, 65
+    73.819mils, 3
+count : 2
+
+Text Width, Count
+    7.812mils, 3
+    10mils, 65
+count : 2
+
+Net Track Width, Count
+    10mils, 9
+count : 1
+
+Net Via Size, Count
+    50mils, 9
+count : 1

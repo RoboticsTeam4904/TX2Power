@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [TX2_PowerBoard.PrjPCB]
+   Generated File[TX2_PowerBoard.TXT]
+   Generated File[TX2_PowerBoard.LDP]
+   Generated File[TX2_PowerBoard.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 1:34:51 PM On 3/3/2019

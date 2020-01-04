@@ -71,10 +71,6 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=UGGBDDNE
 
-[GeneratedDocument1]
-DocumentPath=TSSOP-14.LOG
-DItemRevisionGUID=
-
 [OutputGroup1]
 Name=Netlist Outputs
 Description=
